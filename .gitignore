@@ -1,0 +1,6 @@
+.env
+elasticsearch-7.10.2
+processed_data
+raw_data
+elasticsearch-7.10.2-linux-x86_64.tar.gz
+elasticsearch-7.10.2-linux-x86_64.tar.gz.sha512
