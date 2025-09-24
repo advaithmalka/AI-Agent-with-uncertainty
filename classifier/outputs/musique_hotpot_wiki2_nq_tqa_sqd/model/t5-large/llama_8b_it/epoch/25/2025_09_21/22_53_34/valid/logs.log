@@ -1,0 +1,9 @@
+09/21/2025 22:54:56 - INFO - __main__ -   Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+09/21/2025 22:54:56 - INFO - __main__ -   Namespace(answer_column='answer', checkpointing_steps=None, config_name=None, dataset_config_name=None, dataset_name=None, do_eval=True, do_train=False, doc_stride=128, gradient_accumulation_steps=1, hub_model_id=None, hub_token=None, ignore_pad_token_for_loss=True, learning_rate=5e-05, lr_scheduler_type=<SchedulerType.LINEAR: 'linear'>, max_answer_length=30, max_eval_samples=None, max_seq_length=384, max_train_samples=None, max_train_steps=None, model_name_or_path='./outputs/musique_hotpot_wiki2_nq_tqa_sqd/model/t5-large/llama_8b_it/epoch/25/2025_09_21/22_53_34', model_type=None, num_beams=None, num_train_epochs=2, num_warmup_steps=0, output_dir='./outputs/musique_hotpot_wiki2_nq_tqa_sqd/model/t5-large/llama_8b_it/epoch/25/2025_09_21/22_53_34/valid/', overwrite_cache=True, pad_to_max_length=False, per_device_eval_batch_size=100, per_device_train_batch_size=8, preprocessing_num_workers=None, push_to_hub=False, question_column='question', report_to='all', resume_from_checkpoint=None, seed=None, source_prefix=None, test_column='test', tokenizer_name=None, train_column='train', train_file=None, use_slow_tokenizer=False, val_column='validation', val_max_answer_length=None, validation_file='./data/musique_hotpot_wiki2_nq_tqa_sqd/llama_8b_it/silver/valid.json', weight_decay=0.0, with_tracking=False)
